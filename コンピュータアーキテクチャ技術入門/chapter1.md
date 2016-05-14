@@ -79,7 +79,16 @@
 
 # 1.3 半導体技術
 
+## 半導体
+
+* シリコン、ゲルマニウム、SiC（シリコンカーバイト）、GaAs（ガリウム砒素）、InP（インジウム燐）など
 * [半導体ができるまで](http://japan.renesas.com/company_info/fab/line/line3.html)
+
+## MOSトランジスタ
+
+* P型半導体とN型半導体
+  - [P型半導体 - Wikipedia](https://ja.wikipedia.org/wiki/P%E5%9E%8B%E5%8D%8A%E5%B0%8E%E4%BD%93)
+  - [N型半導体](https://ja.wikipedia.org/wiki/N%E5%9E%8B%E5%8D%8A%E5%B0%8E%E4%BD%93)
 * [CMOS構造 - Wikipedia](https://ja.wikipedia.org/wiki/CMOS)
 
 ## ムーアの法則とマルチコア化
